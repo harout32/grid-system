@@ -1,25 +1,3 @@
-//var mq = window.matchMedia( "(min-width: 992px)" );
-//var sr = new ScrollReveal();
-//var isMobile = sr.tools.isMobile();
-//console.log(isMobile)
-//
-//// ScrollReveal should proceed if we’re not mobile,
-//// or if we’re mobile with a matching minimum width. 
-//if (!isMobile || (mq.matches)) {
-//  
-//  resize();
-//}
-//else{
-//    
-//    
-//    
-//}
-//
-
-
-
-
-
 
 function resize() {
     var wid= window.innerWidth;
